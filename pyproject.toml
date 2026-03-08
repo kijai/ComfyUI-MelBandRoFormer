@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-MelBandRoFormer"
-description = "ComfyUI wrapper nodes for WanVideo"
+description = "ComfyUI wrapper nodes for Mel-Band RoFormer music source separation"
 version = "1.0.2"
 license = {file = "LICENSE"}
 dependencies = ["rotary_embedding_torch", "einops"]
